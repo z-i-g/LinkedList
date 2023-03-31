@@ -40,8 +40,7 @@ public class LinkedList
             }
             node = node.next;
         }
-        return nodes;
-    }
+        return nodes;    }
 
     public boolean remove(int _value)
     {
